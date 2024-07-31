@@ -1,0 +1,311 @@
+﻿NO;Drainase;Nilai_kelembapan;Kelembapan;Tekstur_tanah;Unsur_hara;Jenis_tanaman
+1;sangat baik;50;bagus;lempung berpasir;bagus;padi
+2;buruk;70;basah;lempung berpasir;cukup;umbi kayu
+3;buruk;55;bagus;liat berpasir;cukup;jagung
+4;kurang baik;80;basah;lempung berpasir;cukup;Ubi kayu
+5;baik;30;kering;lempung berliat;buruk;umbi kayu
+6;buruk;90;basah;lempung liat berpasir;buruk;jagung
+7;baik;88;basah;lempung berpasir;bagus;padi
+8;kurang baik;46;bagus;lempung berliat;buruk;umbi jalar
+9;buruk;90;basah;lempung berliat;cukup;Jagung 
+10;kurang baik;23;kering;liat berpasir;cukup;Jagung
+11;baik;77;basah;lempung liat berpasir;buruk;umbi jalar
+12;buruk;45;bagus;lempung berpasir;buruk;padi
+13;baik;52;bagus;liat berpasir;buruk;jagung
+14;kurang baik;23;kering;berdebu;buruk;umbi kayu
+15;buruk;59;bagus;lempung liat berpasir;cukup;umbi kayu
+16;buruk;33;kering;lempung liat berpasir;cukup;jagung
+17;buruk;60;bagus;liat berpasir;cukup;umbi jalar
+18;kurang baik;65;basah;lempung liat berpasir;cukup;jagung
+19;sangat baik;49;bagus;lempung berpasir;buruk;umbi kayu
+20;baik;20;kering;lempung berpasir;bagus;umbi kayu
+21;sangat baik;70;basah;lempung berliat;bagus;padi
+22;sangat baik;80;basah;lempung liat berpasir;bagus;jagung
+23;kurang baik;58;bagus;lempung berpasir;cukup;umbi jalar
+24;buruk;22;kering;lempung liat berpasir;cukup;umbi jalar
+25;buruk;70;basah;lempung berpasir;cukup;jagung
+26;kurang baik;44;bagus;liat berpasir;cukup;padi
+27;kurang baik;70;basah;berdebu;cukup;padi
+28;buruk;46;kering;lempung berliat;cukup;umbi kayu
+29;buruk;90;bagus;lempung berpasir;cukup;umbi jalar
+30;baik;23;bagus;lempung berpasir;cukup;jagung
+31;baik;77;kering;lempung liat berpasir;bagus;umbi kayu
+32;baik;45;bagus;lempung berpasir;bagus;padi
+33;kurang baik;52;bagus;lempung berpasir;cukup;jagung
+34;baik;23;kering;berdebu;buruk;padi
+35;kurang baik;59;kering;liat berpasir;buruk;umbi jalar
+36;sangat baik;33;basah;berdebu;bagus;jagung
+37;buruk;60;kering;liat berpasir;buruk;umbi kayu
+38;kurang baik;65;kering;lempung liat berpasir;buruk;umbi jalar
+39;sangat baik;49;bagus;lempung liat berpasir;bagus;jagung
+40;buruk;20;kering;liat berpasir;buruk;umbi jalar
+41;sangat baik;70;bagus;berdebu;bagus;padi
+42;sangat baik;80;bagus;liat berpasir;buruk;padi
+43;buruk;58;basah;lempung berliat;cukup;padi
+44;buruk;22;basah;lempung liat berpasir;buruk;umbi kayu
+45;sangat baik;70;bagus;lempung berpasir;cukup;jagung
+46;buruk;44;bagus;lempung berpasir;bagus;jagung
+47;buruk;70;bagus;lempung berpasir;cukup;padi
+48;sangat baik;23;basah;berdebu;bagus;padi
+49;buruk;59;basah;lempung berliat;buruk;umbi kayu
+50;baik;77;bagus;lempung berpasir;cukup;jagung
+51;sangat baik;90;bagus;berdebu;cukup;padi
+52;buruk;33;bagus;lempung liat berpasir;bagus;padi
+53;baik;56;kering;lempung liat berpasir;cukup;umbi kayu
+54;buruk;66;kering;liat berpasir;bagus;umbi jalar
+55;baik;87;bagus;lempung berliat;bagus;jagung
+56;buruk;24;bagus;lempung berliat;cukup;padi
+57;baik;65;bagus;berdebu;bagus;padi
+58;baik;70;bagus;lempung berliat;cukup;padi
+59;kurang baik;55;bagus;lempung berpasir;bagus;padi
+60;sangat baik;46;basah;lempung berpasir;cukup;umbi kayu
+61;kurang baik;44;kering;lempung berliat;cukup;jagung
+62;buruk;32;kering;lempung liat berpasir;cukup;Ubi kayu
+63;baik;66;basah;lempung berpasir;cukup;umbi kayu
+64;buruk;87;basah;lempung liat berpasir;buruk;jagung
+65;baik;55;basah;lempung berpasir;buruk;padi
+66;burk;43;kering;liat berpasir;bagus;umbi jalar
+67;buruk;78;bagus;lempung berpasir;bagus;Jagung 
+68;kurang baik;69;kering;lempung berpasir;cukup;Jagung
+69;sangat baik;43;basah;liat berpasir;bagus;umbi jalar
+70;baik;28;bagus;lempung berpasir;bagus;padi
+71;baik;93;bagus;lempung berliat;bagus;jagung
+72;kurang baik;56;basah;lempung liat berpasir;buruk;umbi kayu
+73;sangat baik;78;basah;lempung berpasir;cukup;umbi kayu
+74;baik;43;kering;lempung berliat;cukup;jagung
+75;kurang baik;56;kering;lempung berliat;buruk;umbi jalar
+76;buruk;90;kering;liat berpasir;buruk;jagung
+77;buruk;32;kering;lempung liat berpasir;bagus;umbi kayu
+78;kurang baik;56;bagus;lempung berpasir;cukup;umbi kayu
+79;kurang baik;50;bagus;liat berpasir;cukup;padi
+80;buruk;70;kering;berdebu;cukup;jagung
+81;buruk;55;kering;lempung liat berpasir;cukup;umbi jalar
+82;baik;80;basah;lempung liat berpasir;buruk;umbi jalar
+83;buruk;30;basah;liat berpasir;buruk;jagung
+84;buruk;90;kering;lempung liat berpasir;bagus;padi
+85;kurang baik;88;bagus;lempung berpasir;bagus;padi
+86;kurang baik;46;bagus;lempung berpasir;buruk;umbi kayu
+87;buruk;90;bagus;lempung berliat;cukup;umbi jalar
+88;buruk;23;kering;lempung liat berpasir;bagus;jagung
+89;sangat baik;77;basah;lempung berpasir;cukup;umbi kayu
+90;kurang baik;45;bagus;lempung liat berpasir;bagus;padi
+91;baik;52;kering;lempung liat berpasir;buruk;jagung
+92;sangat baik;23;bagus;liat berpasir;cukup;padi
+93;sangat baik;59;kering;berdebu;cukup;jagung
+94;buruk;33;bagus;liat berpasir;bagus;jagung
+95;baik;60;bagus;lempung berliat;cukup;padi
+96;sangat baik;65;kering;lempung liat berpasir;bagus;umbi kayu
+97;baik;49;bagus;lempung berpasir;bagus;padi
+98;buruk;60;bagus;lempung berpasir;cukup;jagung
+99;sangat baik;65;bagus;lempung berpasir;bagus;umbi jalar
+100;sangat baik;49;kering;berdebu;cukup;umbi jalar
+101;baik;20;basah;lempung berliat;bagus;padi
+102;buruk;70;bagus;lempung berpasir;cukup;padi
+103;baik;80;kering;berdebu;cukup;padi
+104;sangat baik;58;kering;lempung liat berpasir;cukup;jagung
+105;baik;22;kering;lempung liat berpasir;cukup;jagung
+106;buruk;70;basah;liat berpasir;buruk;umbi kayu
+107;sangat baik;44;basah;lempung berliat;buruk;umbi kayu
+108;baik;70;kering;lempung berliat;bagus;umbi jalar
+109;buruk;46;kering;berdebu;bagus;jagung
+110;sangat baik;90;bagus;lempung berliat;bagus;padi
+111;buruk;23;bagus;lempung berpasir;cukup;padi
+112;baik;77;kering;lempung berpasir;buruk;umbi kayu
+113;baik;45;kering;liat berpasir;buruk;jagung
+114;baik;52;bagus;lempung berpasir;bagus;umbi jalar
+115;sangat baik;23;bagus;lempung berliat;buruk;umbi jalar
+116;buruk;59;basah;lempung liat berpasir;cukup;padi
+117;kurang baik;33;kering;lempung berpasir;cukup;jagung
+118;kurang baik;60;bagus;lempung berliat;buruk;padi
+119;buruk;65;bagus;lempung berliat;buruk;jagung
+120;kurang baik;49;bagus;liat berpasir;bagus;umbi jalar
+121;sangat baik;20;kering;lempung liat berpasir;cukup;umbi jalar
+122;baik;70;kering;lempung berpasir;cukup;padi
+123;baik;80;basah;liat berpasir;cukup;padi
+124;buruk;58;bagus;berdebu;cukup;padi
+125;sangat baik;22;basah;lempung liat berpasir;buruk;jagung
+126;buruk;70;kering;lempung liat berpasir;buruk;jagung
+127;baik;44;kering;liat berpasir;buruk;umbi kayu
+128;baik;70;bagus;lempung liat berpasir;bagus;umbi kayu
+129;buruk;23;bagus;lempung berpasir;bagus;umbi jalar
+130;sangat baik;59;bagus;lempung berpasir;bagus;jagung
+131;kurang baik;77;basah;lempung berliat;cukup;padi
+132;baik;55;kering;lempung liat berpasir;cukup;padi
+133;buruk;43;bagus;lempung berpasir;bagus;umbi kayu
+134;buruk;56;kering;lempung liat berpasir;buruk;jagung
+135;sangat baik;57;basah;lempung berpasir;buruk;umbi jalar
+136;kurang baik;88;bagus;liat berpasir;cukup;umbi jalar
+137;kurang baik;32;kering;berdebu;cukup;padi
+138;buruk;34;kering;lempung berliat;cukup;jagung
+139;baik;56;bagus;lempung berpasir;bagus;umbi jalar
+140;baik;89;bagus;lempung berpasir;bagus;umbi jalar
+141;sangat baik;90;basah;lempung liat berpasir;cukup;jagung
+142;buruk;77;kering;lempung berpasir;buruk;padi
+143;sangat baik;43;basah;lempung berpasir;buruk;padi
+144;buruk;23;basah;berdebu;bagus;umbi kayu
+145;sangat baik;19;kering;liat berpasir;buruk;umbi jalar
+146;baik;44;basah;lempung liat berpasir;buruk;jagung
+147;buruk;66;bagus;lempung liat berpasir;bagus;umbi kayu
+148;baik;80;bagus;liat berpasir;buruk;padi
+149;sangat baik;40;kering;lempung liat berpasir;bagus;jagung
+150;kurang baik;34;bagus;lempung berpasir;buruk;padi
+151;baik;56;basah;lempung berpasir;cukup;jagung
+152;baik;83;kering;lempung berliat;buruk;jagung
+153;kurang baik;59;kering;lempung liat berpasir;cukup;padi
+154;kurang baik;66;bagus;lempung berpasir;bagus;umbi kayu
+155;buruk;50;basah;lempung liat berpasir;cukup;umbi kayu
+156;buruk;60;bagus;lempung liat berpasir;bagus;jagung
+157;sangat baik;43;bagus;liat berpasir;buruk;Ubi kayu
+158;baik;56;kering;berdebu;cukup;umbi kayu
+159;buruk;90;bagus;lempung berliat;cukup;jagung
+160;baik;32;bagus;lempung berpasir;bagus;padi
+161;sangat baik;56;kering;lempung berpasir;cukup;umbi jalar
+162;kurang baik;50;basah;liat berpasir;buruk;Jagung 
+163;baik;70;kering;lempung berpasir;buruk;Jagung
+164;baik;55;bagus;lempung berliat;cukup;umbi jalar
+165;kurang baik;80;kering;lempung liat berpasir;bagus;padi
+166;kurang baik;30;bagus;lempung berpasir;cukup;jagung
+167;buruk;90;bagus;lempung berliat;bagus;umbi kayu
+168;buruk;88;bagus;lempung berliat;bagus;umbi kayu
+169;kurang baik;46;bagus;liat berpasir;buruk;jagung
+170;buruk;90;kering;lempung liat berpasir;cukup;umbi jalar
+171;kurang baik;23;bagus;lempung berpasir;cukup;jagung
+172;baik;77;bagus;liat berpasir;buruk;umbi kayu
+173;buruk;45;kering;berdebu;buruk;umbi kayu
+174;baik;52;bagus;lempung liat berpasir;bagus;padi
+175;kurang baik;23;basah;lempung liat berpasir;cukup;jagung
+176;buruk;59;bagus;liat berpasir;cukup;umbi jalar
+177;buruk;33;kering;lempung liat berpasir;cukup;umbi jalar
+178;buruk;60;basah;lempung berpasir;cukup;jagung
+179;kurang baik;65;basah;lempung berpasir;buruk;umbi jalar
+180;sangat baik;49;basah;lempung berliat;buruk;jagung
+181;baik;60;kering;lempung liat berpasir;bagus;umbi kayu
+182;sangat baik;65;bagus;lempung berpasir;bagus;umbi kayu
+183;sangat baik;49;kering;lempung liat berpasir;cukup;padi
+184;kurang baik;20;kering;lempung berpasir;cukup;jagung
+185;buruk;70;kering;liat berpasir;cukup;umbi jalar
+186;buruk;80;basah;lempung liat berpasir;cukup;umbi jalar
+187;kurang baik;58;bagus;lempung liat berpasir;cukup;jagung
+188;kurang baik;22;bagus;liat berpasir;cukup;padi
+189;buruk;70;basah;berdebu;cukup;padi
+190;buruk;44;kering;liat berpasir;cukup;umbi kayu
+191;baik;70;bagus;lempung berliat;bagus;umbi jalar
+192;baik;46;kering;lempung liat berpasir;bagus;jagung
+193;baik;90;bagus;lempung berpasir;cukup;umbi kayu
+194;kurang baik;23;bagus;lempung berpasir;buruk;padi
+195;buruk;77;bagus;lempung berpasir;buruk;jagung
+196;buruk;45;basah;berdebu;bagus;padi
+197;buruk;52;basah;lempung berliat;buruk;umbi jalar
+198;kurang baik;23;kering;lempung berpasir;buruk;jagung
+199;sangat baik;59;bagus;berdebu;bagus;umbi kayu
+200;baik;33;kering;lempung liat berpasir;buruk;umbi jalar
+201;sangat baik;60;bagus;lempung liat berpasir;bagus;jagung
+202;sangat baik;65;kering;liat berpasir;buruk;umbi jalar
+203;kurang baik;49;basah;lempung berliat;cukup;padi
+204;buruk;20;kering;lempung berliat;buruk;padi
+205;buruk;70;kering;berdebu;cukup;padi
+206;kurang baik;80;bagus;lempung berliat;bagus;umbi kayu
+207;kurang baik;58;bagus;lempung berpasir;cukup;jagung
+208;buruk;22;bagus;lempung berpasir;bagus;jagung
+209;buruk;70;basah;lempung berliat;buruk;padi
+210;baik;44;basah;lempung liat berpasir;cukup;padi
+211;baik;70;kering;lempung berpasir;cukup;umbi kayu
+212;baik;23;kering;lempung liat berpasir;bagus;jagung
+213;kurang baik;59;bagus;lempung berpasir;cukup;padi
+214;baik;77;bagus;liat berpasir;bagus;padi
+215;kurang baik;55;bagus;lempung berpasir;bagus;umbi kayu
+216;sangat baik;43;bagus;lempung berpasir;cukup;umbi jalar
+217;buruk;56;kering;liat berpasir;bagus;jagung
+218;kurang baik;57;kering;lempung berpasir;cukup;padi
+219;sangat baik;88;bagus;lempung berliat;bagus;padi
+220;kurang baik;32;bagus;lempung liat berpasir;cukup;padi
+221;baik;34;basah;lempung berpasir;cukup;padi
+222;buruk;56;basah;lempung berliat;cukup;umbi kayu
+223;baik;89;basah;lempung berliat;cukup;jagung
+224;kurang baik;90;kering;liat berpasir;buruk;Ubi kayu
+225;buruk;77;kering;lempung liat berpasir;buruk;umbi kayu
+226;kurang baik;43;bagus;lempung berpasir;bagus;jagung
+227;baik;23;bagus;liat berpasir;cukup;padi
+228;kurang baik;19;kering;berdebu;bagus;umbi jalar
+229;baik;44;kering;lempung liat berpasir;cukup;Jagung 
+230;kurang baik;66;bagus;lempung liat berpasir;bagus;Jagung
+231;sangat baik;45;kering;liat berpasir;buruk;umbi jalar
+232;buruk;55;bagus;lempung liat berpasir;cukup;padi
+233;kurang baik;32;bagus;lempung berpasir;cukup;jagung
+234;sangat baik;27;bagus;lempung berpasir;bagus;umbi kayu
+235;kurang baik;89;bagus;lempung berliat;cukup;umbi kayu
+236;baik;51;kering;lempung liat berpasir;bagus;jagung
+237;buruk;67;bagus;lempung berpasir;bagus;umbi jalar
+238;baik;33;kering;lempung liat berpasir;cukup;jagung
+239;sangat baik;79;bagus;lempung liat berpasir;bagus;umbi kayu
+240;sangat baik;41;kering;liat berpasir;cukup;umbi kayu
+241;baik;30;kering;berdebu;bagus;padi
+242;buruk;22;bagus;liat berpasir;cukup;jagung
+243;baik;65;bagus;lempung berpasir;cukup;umbi jalar
+244;sangat baik;45;bagus;lempung berpasir;cukup;umbi jalar
+245;baik;44;bagus;liat berpasir;cukup;padi
+246;buruk;71;bagus;lempung berpasir;buruk;padi
+247;sangat baik;35;bagus;lempung berliat;buruk;jagung
+248;baik;90;kering;lempung liat berpasir;bagus;padi
+249;buruk;45;bagus;lempung berpasir;bagus;umbi jalar
+250;sangat baik;50;bagus;lempung berliat;bagus;umbi jalar
+251;buruk;59;basah;lempung berliat;cukup;jagung
+252;baik;44;bagus;liat berpasir;bagus;padi
+253;baik;30;bagus;lempung liat berpasir;bagus;padi
+254;baik;67;bagus;lempung berpasir;bagus;umbi kayu
+255;sangat baik;39;basah;liat berpasir;buruk;umbi kayu
+256;buruk;22;kering;berdebu;cukup;jagung
+257;kurang baik;45;kering;lempung liat berpasir;cukup;jagung
+258;kurang baik;50;kering;lempung liat berpasir;buruk;jagung
+259;kurang baik;70;basah;liat berpasir;buruk;umbi jalar
+260;sangat baik;55;bagus;lempung liat berpasir;bagus;padi
+261;baik;80;kering;lempung berpasir;cukup;padi
+262;baik;30;kering;lempung berpasir;cukup;padi
+263;kurang baik;90;kering;lempung berliat;cukup;padi
+264;sangat baik;88;basah;lempung liat berpasir;cukup;jagung
+265;baik;46;basah;lempung berpasir;buruk;jagung
+266;kurang baik;90;kering;lempung liat berpasir;buruk;umbi kayu
+267;buruk;23;kering;lempung berpasir;bagus;jagung
+268;buruk;77;bagus;liat berpasir;bagus;padi
+269;kurang baik;45;bagus;berdebu;bagus;padi
+270;kurang baik;52;bagus;lempung berliat;bagus;umbi kayu
+271;buruk;23;kering;lempung berpasir;cukup;umbi jalar
+272;buruk;59;basah;lempung berpasir;cukup;jagung
+273;baik;33;bagus;lempung liat berpasir;cukup;padi
+274;buruk;60;kering;lempung berpasir;cukup;padi
+275;buruk;65;kering;lempung berpasir;cukup;padi
+276;kurang baik;49;kering;berdebu;cukup;padi
+277;kurang baik;20;basah;liat berpasir;cukup;umbi kayu
+278;buruk;70;basah;berdebu;cukup;jagung
+279;buruk;80;bagus;liat berpasir;bagus;Ubi kayu
+280;sangat baik;58;bagus;lempung liat berpasir;bagus;umbi kayu
+281;kurang baik;22;bagus;lempung liat berpasir;cukup;jagung
+282;baik;70;bagus;liat berpasir;bagus;padi
+283;sangat baik;44;kering;berdebu;cukup;umbi jalar
+284;sangat baik;70;basah;liat berpasir;cukup;Jagung 
+285;buruk;46;bagus;lempung berliat;cukup;Jagung
+286;baik;90;kering;lempung liat berpasir;buruk;umbi jalar
+287;sangat baik;23;bagus;lempung berpasir;buruk;padi
+288;baik;77;bagus;lempung berpasir;bagus;jagung
+289;buruk;45;bagus;lempung berpasir;buruk;umbi kayu
+290;sangat baik;52;kering;berdebu;cukup;umbi kayu
+291;sangat baik;23;kering;lempung berliat;cukup;jagung
+292;baik;59;basah;lempung berpasir;buruk;umbi jalar
+293;buruk;33;basah;berdebu;buruk;jagung
+294;baik;60;basah;lempung liat berpasir;buruk;umbi kayu
+295;sangat baik;65;kering;lempung liat berpasir;buruk;umbi kayu
+296;baik;49;kering;liat berpasir;cukup;padi
+297;buruk;20;kering;lempung berliat;cukup;jagung
+298;sangat baik;70;bagus;lempung berliat;cukup;umbi jalar
+299;baik;80;kering;berdebu;cukup;umbi jalar
+300;buruk;58;kering;lempung berliat;buruk;padi
+301;sangat baik;22;bagus;lempung berpasir;bagus;padi
+302;buruk;70;bagus;lempung berpasir;bagus;jagung
+303;baik;44;bagus;lempung berliat;bagus;padi
+304;baik;70;basah;lempung liat berpasir;cukup;umbi jalar
+305;baik;23;basah;lempung berpasir;buruk;umbi jalar
+306;sangat baik;59;kering;lempung liat berpasir;bagus;jagung
+307;buruk;77;bagus;lempung berpasir;bagus;padi
+308;kurang baik;90;kering;liat berpasir;cukup;padi
+309;kurang baik;33;basah;lempung berpasir;cukup;umbi kayu
+310;buruk;56;basah;lempung berpasir;buruk;umbi kayu
